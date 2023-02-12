@@ -1,0 +1,55 @@
+QLineEdit#enter{
+    background-color:white;
+    margin: 5px;
+    padding: 6px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family:"Times New Roman";
+}
+
+QPushButton#button{
+    border: none;
+    margin: 13px;
+    padding: 15px;
+    background-color: #4984bb;
+    /*background-color: #4082c0;*/
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    font-size: 23px;
+    font-family:"Times New Roman";
+}
+QPushButton#button:hover {
+    background-color: #2a75f5;
+}
+
+QTabWidget#Tabtime
+{
+    margin:10px;
+    padding:20px;
+    background-color: #199bab;
+    color:white;
+    font-weight:bold;
+    border-radius:10px;
+    font-size:18px;
+
+}
+QComboBox#com {
+    background-color: #fbfbfc;
+    color: #034973;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 15px;
+
+}
+QLabel {
+    font-size:20px;
+    color :white;
+    font-family:"Times New Roman";
+}
+QWidget{
+    /*background : #00314f;*/
+}

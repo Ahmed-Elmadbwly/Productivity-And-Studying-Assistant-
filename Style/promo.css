@@ -1,0 +1,55 @@
+QLabel#la {
+    font-size: 40px;
+    color: #ffffff;
+    background-color: rgba(1,1,1,0);
+    font-weight: bold;
+}
+QLabel#sub {
+    font-weight: bold;
+    font-size: 30px;
+    background-color:Rgba(1,1,1,0);
+    color: white;
+    font-family: "Bodoni MT"
+
+}
+QPushButton#bn3{
+    border-radius: 10px;
+    background-color: #4984bb;
+    color: #EEEEEE;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+QPushButton#btn{
+    border: none;
+    text-align: left;
+    background-color: #014067;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+QPushButton#btn:hover{
+    background-color: #02578a;
+}
+
+QLabel#form {
+    font-size: 27px;
+    color: #ffffff;
+    background-color: #ff0000;
+    font-weight: bold;
+}
+QPushButton#back{
+    border: none;
+    background-color: rgba(22, 60, 134, 0);
+    border-radius: 10px;
+}
+
+QPushButton#back:hover{
+    background-color: #005aff;
+}
+
+QPushButton#bn3:hover{
+    background-color: #2a75f5;
+}

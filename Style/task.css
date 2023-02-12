@@ -1,0 +1,77 @@
+QPushButton#back{
+    border: none;
+    background-color: rgba(22, 60, 134, 0);
+    border-radius: 10px;
+}
+QPushButton#back:hover{
+    background-color: #005aff;
+}
+
+QPushButton#task{
+    border: none;
+    text-align: left;
+    background-color: #014067;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+QPushButton#task:hover{
+    background-color: #02578a;
+    /*background-color: #024772;*/
+}
+
+QLabel#title {
+    font-weight: bold;
+    font-size: 40px;
+    color: #f99f34;
+
+}
+
+QLabel#sub {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Lucida Sans", "Noto Sans", sans-serif;
+}
+
+QLabel#note {
+    color: #e7e7e7;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+}
+
+QInputDialog QPushButton , QPushButton#logo {
+    color: white;
+    border: none;
+}
+
+QInputDialog QLineEdit{
+    border: none;
+    background-color: #e7e7e7;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+QInputDialog QLabel{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+QPushButton#add {
+    border: none;
+    color: white;
+    /*font-size: 30px;*/
+    background-color: #02446c;
+    border-radius: 6px ;
+    padding: 10px;
+}
+
+QPushButton#add:hover {
+    background-color: #02578a;
+}
+
